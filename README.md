@@ -43,8 +43,7 @@ I bring hands-on experience in SIEM monitoring, vulnerability assessment, and in
 | Active Directory Security Assessment With Splunk  | [Active Directory Security Assessment With Splunk](#)                                                                                                                 |
 | Vulnerability Remediation With Nessus             | [Remediation With Nessus](#)                                                                                                                                          |
 | RAT-Detection-and-Remediation-NetSupport-Incident | [RAT-Detection-and-Remediation-NetSupport-Incident](#)                                                                                                                |
-| Threaded-Port-Scanner-in-Python                   | [Threaded Port Scanner in Python](#)                                                                                                                                  |
-| Labs Continued                                    | [More](#)                                                                                                                                                             |
+| Threaded-Port-Scanner-in-Python                   | [Threaded Port Scanner in Python](#)                                                                                                                                  |                                                                                                                                                           |
 
 
 ## Tools
