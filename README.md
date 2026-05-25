@@ -39,11 +39,12 @@ I bring hands-on experience in SIEM monitoring, vulnerability assessment, and in
 
 | Skill                                             | Associated Project                                                                                                                                                    |
 | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PsExec-Hunt-Lab-Cyberdefenders                    | [PsExec-Hunt-Lab-Cyberdefenders](#)                                                                                                                                   |
-| Active Directory Security Assessment With Splunk  | [Active Directory Security Assessment With Splunk](#)                                                                                                                 |
-| Vulnerability Remediation With Nessus             | [Remediation With Nessus](#)                                                                                                                                          |
+| PsExec-Hunt-Lab-Cyberdefenders                    | [PsExec-Hunt-Lab-Cyberdefenders](https://github.com/dadesina1/Cyber-Security-Portfolio/tree/c031b843f0b24bcb417a7a6694bcaa023494006e/PsExec-Hunt-Lab-Cyberdefenders--main/PsExec-Hunt-Lab-Cyberdefenders--main)                              |
+| Active Directory Security Assessment With Splunk  | [Active Directory Security Assessment With Splunk](https://github.com/dadesina1/Cyber-Security-Portfolio/tree/c031b843f0b24bcb417a7a6694bcaa023494006e/-Active-Directory-Security-Assessment-with-Splunk-Integration-main%20-%20Copy/-Active-Directory-Security-Assessment-with-Splunk-Integration-main) |
+| Vulnerability Remediation With Nessus             | [Remediation With Nessus](https://github.com/dadesina1/Cyber-Security-Portfolio/tree/c031b843f0b24bcb417a7a6694bcaa023494006e/Vulnerability-Remediation-With-Nessus-main/Vulnerability-Remediation-With-Nessus-main)                         |
 | RAT-Detection-and-Remediation-NetSupport-Incident | [RAT-Detection-and-Remediation-NetSupport-Incident](#)                                                                                                                |
-| Threaded-Port-Scanner-in-Python                   | [Threaded Port Scanner in Python](#)                                                                                                                                  |                                                                                                                                                           |
+| Threaded-Port-Scanner-in-Python                   | [Threaded Port Scanner in Python](https://github.com/dadesina1/Cyber-Security-Portfolio/tree/c031b843f0b24bcb417a7a6694bcaa023494006e/Threaded-Port-Scanner-in-Python-main/Threaded-Port-Scanner-in-Python-main)                             |
+| Labs Continued                                    | [More](#)                                                                                                                                                             |
 
 
 ## Tools
